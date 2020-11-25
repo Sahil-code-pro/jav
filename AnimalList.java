@@ -6,3 +6,9 @@ wolf
 tiger 
 
 dog
+
+objects 
+laptop 
+phone 
+charger 
+
